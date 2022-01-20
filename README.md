@@ -1,4 +1,4 @@
-# tapedeck
+# tpdk
 
 live tape fx (saturation, distortion, wow/flutter).
 
