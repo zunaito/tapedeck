@@ -2,9 +2,6 @@
 
 live tape fx (saturation, distortion, wow/flutter).
 
-
-![moonraker](https://user-images.githubusercontent.com/6550035/149668537-202958bc-c680-4880-a8a2-d104cc9e15dd.png)
-
 this is a tape deck emulator - providing four stages of effects: 
 
 1) tape bias/saturation
