@@ -1,4 +1,4 @@
-Engine_Tapedeck : CroneEngine {
+Engine_Tpdk : CroneEngine {
 	
 	var synTape;
 	var buf;
